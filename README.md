@@ -6,7 +6,7 @@ This is a simple BMI calculator application built using Express.js.
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Kazinak1401/BMI-calculator.git
    cd bmi-calculator
 
 2. Install necessary npm packages
